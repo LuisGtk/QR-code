@@ -6,12 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-
-        <p>
-          hello world
-        </p>
-        {/* <a
-        </a> */}
+        <img className='scan' 
+        src={src}/>
       </header>
     </div>
   );
