@@ -1,3 +1,6 @@
+A quick side project. I wanted to see wat I can do with a qr code. To be honest, I thought it wouldve given me a little more trouble but it's always fun and cool to try new things esspecially on react.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
